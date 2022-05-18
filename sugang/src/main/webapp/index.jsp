@@ -92,7 +92,6 @@ $.getJSON('http://api.openweathermap.org/data/2.5/weather?id=1835848&appid=95deb
         <li><a href="#" onclick="alt()">이용방법</a></li>
         <li><a href="#" onclick="alt()">수강신청</a></li>
         <li><a href="#" onclick="alt()">수강수정</a></li>
-        <li><a href="#" onclick="alt()">게시판</a></li>
       </ul>
     </nav>
  	</div>

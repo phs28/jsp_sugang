@@ -56,7 +56,6 @@
         <li><a href="../join/useHomepage.jsp">이용방법</a></li>
         <li><a href="#">수강신청</a></li>
         <li><a href="../sugang/suUpdate.jsp">수강수정</a></li>
-        <li><a href="../board/writer.html">게시판</a></li>
       </ul>
     </nav> 
 	<form action="<%= request.getContextPath() %>/SuGang?choice=insert" method="post">
